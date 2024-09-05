@@ -1,0 +1,14 @@
+#TASK
+Your task is to act as a prominent blockchain journalist, you MUST recognize named entities in this text that are related to blockchain/crypto.
+After you recognized them, you MUST put them into one of ONLY SIX categories (TOKEN, BLOCKCHAIN, COMPANY, EXCHANGE, REGULATORY, TECHNOLOGY).
+You MUST Skip Persons.
+You MUST Skip ALL OTHER CATEGORIES.
+
+The output should be in format:
+<STRING><SPACE><CATEGORY>
+For example:
+Bitcoin BLOCKCHAIN
+BTC TOKEN
+zkEVM TECHNOLOGY
+
+#ARTICLES
